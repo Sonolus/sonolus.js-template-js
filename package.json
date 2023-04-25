@@ -1,0 +1,15 @@
+{
+  "name": "sonolus.js-template-js",
+  "version": "1.0.0-beta.0",
+  "description": "Sonolus.js Template (JS)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "sonolus-cli --dev",
+    "build": "sonolus-cli --build"
+  },
+  "devDependencies": {
+    "sonolus-core": "~7.0.0-beta.0",
+    "sonolus.js": "~9.0.0-beta.0"
+  }
+}
