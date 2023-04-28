@@ -1,4 +1,4 @@
-import { archetypes } from '../../engine/data/archetypes'
+import { archetypes } from '../../engine/data/archetypes/index.js'
 
 /** @type import('sonolus-core').LevelData */
 export const data = {
