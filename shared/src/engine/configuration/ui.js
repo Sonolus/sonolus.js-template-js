@@ -1,4 +1,4 @@
-/** @type import('sonolus-core').EngineConfigurationUI */
+/** @type {import('sonolus-core').EngineConfigurationUI} */
 export const ui = {
     primaryMetric: 'arcade',
     secondaryMetric: 'life',
@@ -19,6 +19,14 @@ export const ui = {
         alpha: 1,
     },
     secondaryMetricVisibility: {
+        scale: 1,
+        alpha: 1,
+    },
+    tutorialNavigationVisibility: {
+        scale: 1,
+        alpha: 1,
+    },
+    tutorialInstructionVisibility: {
         scale: 1,
         alpha: 1,
     },
