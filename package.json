@@ -10,7 +10,7 @@
     "build": "sonolus-cli --build ./play/sonolus-cli.config.js && sonolus-cli --build ./tutorial/sonolus-cli.config.js"
   },
   "devDependencies": {
-    "sonolus-core": "~7.2.0",
-    "sonolus.js": "~9.1.1"
+    "sonolus-core": "~7.3.0",
+    "sonolus.js": "~9.2.0"
   }
 }
