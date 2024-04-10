@@ -1,4 +1,4 @@
-/** @type {import('sonolus-core').EngineConfigurationUI} */
+/** @type {import('@sonolus/core').EngineConfigurationUI} */
 export const ui = {
     primaryMetric: 'arcade',
     secondaryMetric: 'life',
@@ -39,13 +39,13 @@ export const ui = {
             from: 1,
             to: 1,
             duration: 0,
-            ease: 'None',
+            ease: 'none',
         },
         alpha: {
             from: 1,
             to: 1,
             duration: 0,
-            ease: 'None',
+            ease: 'none',
         },
     },
     comboAnimation: {
@@ -53,13 +53,13 @@ export const ui = {
             from: 1,
             to: 1,
             duration: 0,
-            ease: 'None',
+            ease: 'none',
         },
         alpha: {
             from: 1,
             to: 1,
             duration: 0,
-            ease: 'None',
+            ease: 'none',
         },
     },
     judgmentErrorStyle: 'none',

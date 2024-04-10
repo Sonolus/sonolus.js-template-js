@@ -1,4 +1,4 @@
-/** @type {import('sonolus-core').LevelData} */
+/** @type {import('@sonolus/core').LevelData} */
 export const data = {
     bgmOffset: 0,
     entities: [

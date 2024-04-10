@@ -1,2 +1,2 @@
-/** @satisfies {Record<string, import('sonolus-core').EngineConfigurationOption>} */
+/** @satisfies {Record<string, import('@sonolus/core').EngineConfigurationOption>} */
 export const optionsDefinition = {}
