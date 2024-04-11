@@ -4,6 +4,7 @@
             "ESNext"
         ],
         "module": "Node16",
-        "moduleResolution": "Node16"
+        "moduleResolution": "Node16",
+        "checkJs": true,
     }
 }
