@@ -3,8 +3,9 @@
         "lib": [
             "ESNext"
         ],
-        "module": "Node16",
-        "moduleResolution": "Node16",
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "Bundler",
         "checkJs": true,
     }
 }
