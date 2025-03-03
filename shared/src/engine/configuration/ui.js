@@ -63,6 +63,6 @@ export const ui = {
         },
     },
     judgmentErrorStyle: 'none',
-    judgmentErrorPlacement: 'both',
+    judgmentErrorPlacement: 'center',
     judgmentErrorMin: 0,
 }
