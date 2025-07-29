@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
--   [Node.js](https://nodejs.org) (16+)
+-   [Node.js](https://nodejs.org)
 
 ## Recommended Setup
 
@@ -27,19 +27,19 @@ npm i
 Run in project directory:
 
 ```
-npm run dev:play
+npm run dev-play
 ```
 
 ```
-npm run dev:watch
+npm run dev-watch
 ```
 
 ```
-npm run dev:preview
+npm run dev-preview
 ```
 
 ```
-npm run dev:tutorial
+npm run dev-tutorial
 ```
 
 A dev server will be up and running. You can connect to it using Sonolus app and play test the level.
